@@ -1,14 +1,34 @@
-## Hi there 👋
+# Hi, I’m iqskr 👋
 
-**iqskr/iqskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Junior Software Engineer**  
+💡 Specialized in **Java** & **Python** development  
+🚀 Experienced with **Docker**, **Kubernetes**, **Git**, and **GitHub**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌟 Flagship Project
+
+**[E-Transit Platform](#)**  
+A Bus Tracking System that enables users to get real-time bus locations—making transit smarter and more efficient.
+
+---
+
+### 📚 Top Repositories
+
+- [weather.io](https://github.com/iqskr/weather.io) — Weather data in your hands, anytime.
+- [filehosts](https://github.com/iqskr/filehosts) — Efficient host file management.
+- [pythonmiddwr](https://github.com/iqskr/pythonmiddwr) — Python middleware utilities.
+- [gtfs-2](https://github.com/iqskr/gtfs-2) — GTFS data handling made simple.
+- [gtfs-railapi-transit](https://github.com/iqskr/gtfs-railapi-transit) — Rail API integrations for transit solutions.
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shakir-dhamaskar/)
+
+---
+
+<!--
+**iqskr/iqskr** is a ✨ special ✨ repository because its README will appear on your GitHub profile.
+-->
