@@ -1,4 +1,4 @@
-![header image](header-image.svg?v=20241231)
+![header image](header-image.svg)
 
 # Hi, I’m iqskr 👋
 
