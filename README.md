@@ -3,8 +3,6 @@
 I'm a **Junior Software Engineer** passionate about building robust and efficient applications. I specialize in **Java** and **Python** development, and I'm always eager to learn and explore new technologies.
 
 ## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
 - **Languages:** Java, Python
 - **Frameworks:** Ruby on Rails
   
