@@ -4,6 +4,10 @@ I'm a **Junior Software Engineer** passionate about building robust and efficien
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+- **Languages:** Java, Python
+- **Frameworks:** Ruby on Rails
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
@@ -11,7 +15,7 @@ I'm a **Junior Software Engineer** passionate about building robust and efficien
 ## 🚀 About Me
 
 - 💻 Junior Software Engineer
-- 🛠️ Specialize in **Java** and **Python**
+- 🛠️ Works with **Java**, **Python** and **Ruby on rails**
 - 🐳 Experienced with **Docker** and **Kubernetes**
 - 🔧 Skilled in using **Git** and **GitHub** for version control and collaboration
 
