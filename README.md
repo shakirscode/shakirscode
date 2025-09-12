@@ -2,6 +2,12 @@
 
 I'm a **Junior Software Engineer** passionate about building robust and efficient applications. I specialize in **Java** and **Python** development, and I'm always eager to learn and explore new technologies.
 
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
 ## 🚀 About Me
 
 - 💻 Junior Software Engineer
@@ -25,6 +31,7 @@ I'm a **Junior Software Engineer** passionate about building robust and efficien
 ## 📫 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shakir-dhamaskar/)
+- 📧 Email: `dhamaskarshakir72@gmail.com`
 
 ---
 
