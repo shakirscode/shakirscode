@@ -15,15 +15,16 @@ I'm a **Junior Software Engineer** passionate about building robust and efficien
   A Bus Tracking System that enables users to get real-time bus locations—making transit smarter and more efficient.
 
 
-## 🌟 Featured Projects
+## 📚 Top Repositories
 
 - [slackplatform](https://github.com/shakirscode/slackplatform): Integrating Slack with powerful custom features.
 - [weather.io](https://github.com/shakirscode/weather.io): Real-time weather data app with modern UI.
 - [iqskr](https://github.com/shakirscode/iqskr): Innovative solutions for smart data processing.
 - [etransit](https://github.com/shakirscode/etransit): (Collaboration with codesbyharsh) Transit management and optimization platform.
 
-## 📫 How to reach me
+## 📫 Connect with Me
 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shakir-dhamaskar/)
 - GitHub: [shakirscode](https://github.com/shakirscode)
 
 ---
