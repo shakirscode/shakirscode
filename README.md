@@ -25,7 +25,6 @@ I'm a **Junior Software Engineer** passionate about building robust and efficien
 ## 📫 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shakir-dhamaskar/)
-- GitHub: [shakirscode](https://github.com/shakirscode)
 
 ---
 
