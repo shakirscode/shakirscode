@@ -9,6 +9,12 @@ I'm a **Junior Software Engineer** passionate about building robust and efficien
 - 🐳 Experienced with **Docker** and **Kubernetes**
 - 🔧 Skilled in using **Git** and **GitHub** for version control and collaboration
 
+  ### 🌟 Flagship Project
+
+**[E-Transit Platform](#)**  
+A Bus Tracking System that enables users to get real-time bus locations—making transit smarter and more efficient.
+
+
 ## 🌟 Featured Projects
 
 - [slackplatform](https://github.com/shakirscode/slackplatform): Integrating Slack with powerful custom features.
