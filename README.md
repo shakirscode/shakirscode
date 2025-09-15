@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shakir 👋
 
-I’m a Computer Engineering fresher with hands-on experience in **Java** and **Python**, driven by a deep curiosity to explore innovative technologies and grow as a developer."
+I’m a Computer Engineering fresher with hands-on experience in **Java** and **Python**, driven by a deep curiosity to explore innovative technologies and grow as a developer.I’m eager to apply my skills in real-world projects and stay ahead by learning new tools and technologies.
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, Python
