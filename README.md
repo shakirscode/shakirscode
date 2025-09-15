@@ -1,3 +1,5 @@
+![header](header-image.svg)
+
 # Hi there, I'm Shakir 👋
 
 I’m a Computer Engineering fresher with hands-on experience in **Java** and **Python**, driven by a deep curiosity to explore innovative technologies and grow as a developer."
