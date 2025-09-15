@@ -1,6 +1,6 @@
 # Hi there, I'm Shakir 👋
 
-I'm a **Junior Software Engineer** passionate about building robust and efficient applications. I specialize in **Java** and **Python** development, and I'm always eager to learn and explore new technologies.
+I’m a Computer Engineering fresher with hands-on experience in **Java** and **Python**, driven by a deep curiosity to explore innovative technologies and grow as a developer."
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, Python
