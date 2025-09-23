@@ -5,8 +5,8 @@
 I’m a Computer Engineering fresher with hands-on experience in **Java** and **Python**, driven by a deep curiosity to explore innovative technologies and grow as a developer.I’m eager to apply my skills in real-world projects and stay ahead by learning new tools and technologies.
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, Python
-- **Frameworks:** Ruby on Rails
+- **Languages:** Java, Python, Javascript
+<!-- - **Frameworks:** Ruby on Rails -->
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
